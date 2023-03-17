@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Golden Man",
+    "image": "/items/item1.svg",
+    "likes": 22,
+    "price": 1.4,
+    "user": {
+      "id": 1,
+      "username": "Lena Kessler",
+      "avatar": "/avatars/avatar1.svg",
+      "isVerified": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Mars Rover",
+    "image": "/items/item2.svg",
+    "likes": 12,
+    "price": 1.8,
+    "user": {
+      "id": 2,
+      "username": "Max Schwarz",
+      "avatar": "/avatars/avatar2.svg",
+      "isVerified": false
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nebula Hunter",
+    "image": "/items/item3.svg",
+    "likes": 5,
+    "price": 2.5,
+    "user": {
+      "id": 3,
+      "username": "Liam Young",
+      "avatar": "/avatars/avatar3.svg",
+      "isVerified": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Galactic Traveler",
+    "image": "/items/item4.svg",
+    "likes": 34,
+    "price": 3.2,
+    "user": {
+      "id": 4,
+      "username": "Ella Weber",
+      "avatar": "/avatars/avatar4.svg",
+      "isVerified": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Starlight Seeker",
+    "image": "/items/item5.svg",
+    "likes": 18,
+    "price": 2.8,
+    "user": {
+      "id": 5,
+      "username": "Noah Wagner",
+      "avatar": "/avatars/avatar5.svg",
+      "isVerified": false
+    }
+  },
+  {
+    "id": 6,
+    "name": "Cosmic Voyager",
+    "image": "/items/item6.svg",
+    "likes": 29,
+    "price": 2.2,
+    "user": {
+      "id": 6,
+      "username": "Ava Fischer",
+      "avatar": "/avatars/avatar5.svg",
+      "isVerified": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Astro Explorer",
+    "image": "/items/item7.svg",
+    "likes": 15,
+    "price": 2.9,
+    "user": {
+      "id": 7,
+      "username": "Benjamin Hoffmann",
+      "avatar": "/avatars/avatar7.svg",
+      "isVerified": false
+    }
+  },
+  {
+    "id": 8,
+    "name": "Stellar Adventurer",
+    "image": "/items/item8.svg",
+    "likes": 42,
+    "price": 4.2,
+    "user": {
+      "id": 8,
+      "username": "Mia Kuhn",
+      "avatar": "/avatars/avatar8.svg",
+      "isVerified": true
+    }
+  }
+]
